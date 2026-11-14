@@ -49,5 +49,5 @@ We trained Random Forest and XGBoost. XGBoost with the **v3 Sin/Cos encoding** a
 2. Run: `docker run -p 5000:5000 bike-demand`
 
 ## Deployment
-The service is deployed at: https://hourly-bike-demand-regression.onrender.com/predict
-**Note: The app may take up to 1 minute to wake up from sleep mode.**
+- The service is deployed at: https://hourly-bike-demand-regression.onrender.com/predict
+- **Note: The app may take up to 1 minute to wake up from sleep mode.**
